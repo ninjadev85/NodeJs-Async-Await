@@ -21,7 +21,7 @@ let getFunction =(number)=>{
         return ()=>console.log('so duong')
     }
     return ()=>console.log('so am')
-}
+}  
 getFunction(-1)(); // excute a function
 
 let a=()=>{}
