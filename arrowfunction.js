@@ -16,8 +16,7 @@ let add1 = (a,b) =>  a+b;
 //console.log(add1(4,5));
 
 // function return a function
-let getFunction =(number)=>{
-    
+let getFunction =(number)=>{   
     if(number > 0 ){
         return ()=>console.log('so duong')
     }
