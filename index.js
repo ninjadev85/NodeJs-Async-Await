@@ -1,7 +1,2 @@
-let a = 10;
-console.log(a);
+// demo async & await
 
-if(true){
-    let b = 5;
-}
-console.log('b = ',b) // error b not defined
