@@ -17,6 +17,7 @@ let add1 = (a,b) =>  a+b;
 
 // function return a function
 let getFunction =(number)=>{
+    
     if(number > 0 ){
         return ()=>console.log('so duong')
     }
