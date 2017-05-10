@@ -26,4 +26,5 @@ getFunction(-1)(); // excute a function
 
 let a=()=>{}
 
+
 console.log(a());
